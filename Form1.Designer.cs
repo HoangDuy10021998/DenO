@@ -75,7 +75,7 @@
             this.btTru.Name = "btTru";
             this.btTru.Size = new System.Drawing.Size(99, 37);
             this.btTru.TabIndex = 2;
-            this.btTru.Text = "Trừ";
+            this.btTru.Text = "Cộng";
             this.btTru.UseVisualStyleBackColor = true;
             this.btTru.Click += new System.EventHandler(this.btTru_Click);
             // 

@@ -20,7 +20,7 @@ namespace DenO
         {
             double a = double.Parse(txtSo1.Text);
             double b = double.Parse(txtSo2.Text);
-            double c = a - b;
+            double c = a / b;
             txtKetqua.Text = c.ToString();
         }
     }
